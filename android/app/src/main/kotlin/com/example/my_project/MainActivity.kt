@@ -1,4 +1,4 @@
-package com.mycompany.perthweather
+package perth.weather.com
 
 import io.flutter.embedding.android.FlutterActivity
 
